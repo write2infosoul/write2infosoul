@@ -1,0 +1,262 @@
+@media only screen and (max-width:530px) {
+.slider-items{
+    min-height: 320px;
+}
+.caption-wrapper{
+	  min-height: 320px;
+}
+.vision_text h5{
+	    font-size: 25px;
+}
+.caption {
+     font-size: 18px;
+    padding-top: 5px;
+    line-height: 16px;
+}
+.feature-box p{
+   font-size: 18px;
+}
+
+.section__description {
+    font-size: 18px;
+ }
+
+.contact-box a{
+  font-size: 18px;
+}
+
+.grid--features .grid__item .grid__title{
+    font-size: 20px;
+}
+.grid--industries .grid__title{
+  font-size: 18px; 
+}
+p.industries-name{
+      font-size: 18px
+}
+
+.pagebanner h2{
+      font-size: 25px;
+}
+
+.pagebanner {
+    padding-top: 100px;
+    padding-bottom: 66px;
+  }
+  .about-para p{
+    font-size: 18px;
+  }
+
+  .counter-box h4{
+    font-size: 25px;  
+}
+
+.counter-box.white-color {
+    padding-top: 2em;
+}
+.counter-box p{
+      font-size: 18px;
+      line-height: 19px;
+}
+
+.contact-box span{
+  font-size: 18px;
+}
+
+}
+
+
+
+@media only screen and (max-width:768px) {
+
+.contact-box{
+    height: auto;
+    padding: 3px;
+    padding-bottom: 15px;
+}
+
+.resp-padnone{
+padding-right: 0px !important;
+}
+
+.header{
+  overflow: hidden;
+}
+
+.white-color h3{
+      text-align: center;
+}
+.section-heading h3{
+font-size: 28px;
+}
+
+.technology-ul li:hover img{
+   opacity: 0.7;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+.technology-ul li:hover {
+     background: #eaeef1;
+}
+
+.white-color .section-heading-line-left{
+display: none;
+}
+
+.main-slider .owl-dots {
+  display: none;
+  }
+
+.grid--industries .grid__item{
+      margin-bottom: 16px;
+}
+.cs-banner-arrow-scroll{
+  display: none;
+}
+
+  html{
+    overflow-x: hidden;
+  }
+.grid--features .grid__item{
+	height: auto;
+}
+.grid__text{
+     font-size: 16px;
+}
+.menu-button {
+    right: 7%;
+}
+
+.section__description--centered{
+    width: 85%;
+}
+
+.intro {
+   position: absolute;
+    bottom: 19px;
+    left: 21px;
+}
+
+.header__content--fix-width, .section__content--fix-width, .footer__content--fix-width, .header__content--fluid-width, .section__content--fluid-width, .footer__content--fluid-width {
+   padding-left: 4% !important;
+    padding-right: 4% !important;
+}
+
+.header__logo-title img {
+    width: 50px;
+  }
+  .header{
+  	height: 67px;
+  }
+
+  .grid--industries .grid__item{
+    width: 100%;
+        margin-right: 0;
+  }
+
+.section--cta{
+      padding-bottom: 0;
+}
+.section__content--padding{
+  padding-bottom: 20px;
+}
+
+.testimonials__thumb{
+   padding-bottom: 0px;
+}
+
+}
+
+
+
+
+
+@media only screen and (min-width:768px) and (max-width:992px){
+
+
+}
+
+@media only screen and (max-width:992px) {
+.header__menu ul{
+      border-top: 1px #ebeced solid;
+}
+
+.header__menu ul li  a:hover, .header__menu ul li a.selected , .header__menu ul li a.active{
+      color: #000;
+}
+
+.header__menu ul li a{
+    font-size: 18px !important;
+}
+.sub-menu li a{
+  color: #888787 !important;
+ padding-left: 3.5em !important;
+}
+
+.feature-box h4{
+      margin: 0px 0px;
+}
+.feature-box{
+      padding: 10px;
+          height: auto;
+}
+
+
+*,
+::after,
+::before {
+    box-sizing: border-box
+}
+
+
+.about-para{
+width: 100%;
+padding-bottom: 1em;
+}
+
+.box-width {
+    max-width: 100%;
+}
+
+.about-div{
+    padding: 0 0 33px 0;
+}
+.grid__client-logo{
+	    margin-right: 2em;
+}
+.technology-ul li{
+	    width: 48%;
+	        margin-right: 0;
+}
+
+.testimonials {
+ padding: 0 0 80px 0;
+}
+
+
+}
+
+
+@media only screen and (min-width:992px) {
+.sidebar-panel{
+    display: none;
+}
+}
+
+
+@media only screen and (min-width:1380px) {
+.slider-items {
+ min-height: 960px;
+}
+
+.cs-banner-arrow-scroll{
+	    bottom: 68px;
+}
+.intro{
+	    padding: 38% 0 0 0 !important;
+}
+
+
+}
+
+

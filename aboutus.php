@@ -1,0 +1,473 @@
+
+<!DOCTYPE html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta name="author" content="InfoSoul" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<link rel="icon" href="images/favicon.png" type="image/x-icon">
+<title>InfoSoul</title>
+<link rel="stylesheet" href="css/bootstrap.min.css?v=1.13">
+<link rel="stylesheet" href="css/style.css?v=1.13">
+<link rel="stylesheet" type="text/css" href="css/font-awesome.css?v=1.13">
+<link rel="stylesheet" href="css/swiper.css?v=1.13">
+<link rel="stylesheet" href="css/responsive.css?v=1.13">
+<style>
+.pagebanner{
+    background-image: url(images/aboutus.jpg);
+}
+
+</style>
+</head>
+<body>
+
+
+
+
+
+
+	<header class="header">
+	<div class="header__content header__content--fluid-width">
+	<div class="header__logo-title"> <a href="https://www.infosoul.in"> <img id="image" src="images/26_white.png"> </a></div>
+
+
+
+			<nav class="header__menu">
+				<ul>
+					<li><a class="selected header-link" href="index.php?open_type=coreareas_link" id="coreareas_link">Core Areas</a></li>
+                <li class="menu-item-has-children"><a href="index.php?open_type=industries_link" id="industries_link" class="header-link">Industries</a>
+						<ul class="sub-menu">
+							<!-- <li><a href="courier.php" class="header-link"> Courier & logistics </a></li>
+							<li><a href="construction.php" class="header-link"> Construction </a> </li> -->
+                            <li><a href="education.php" class="header-link"> Education  </a></li>
+                          <!--  <li><a href="fashion.php" class="header-link"> Fashion </a></li> -->
+                            <li><a href="finance.php" class="header-link"> Finance  </a></li>
+                            <li><a href="food.php" class="header-link"> Food & Beverages </a></li>
+                            <li><a href="javascipt:;" class="header-link"> Healthcare</a></li>
+                      <!--      <li><a href="marketing.php" class="header-link"> Marketing  </a></li>
+							<li><a href="news.php" class="header-link"> News & Media  </a></li>
+							<li><a href="pharmaceutical.php" class="header-link"> Pharmaceutical </a></li>
+							<li><a href="javascipt:;" class="header-link"> Portals  </a></li>-->
+							<li><a href="retail.php" class="header-link"> Retail  </a></li>
+						</ul>
+					</li>
+
+
+                    <li><a class="header-link" href="index.php?open_type=technologies_link" id="technologies_link" >Technologies</a></li>
+
+
+					<li><a href="aboutus.php" class="header-link">Our Solutions</a></li>
+					<li><a href="contactus.php" class="header-link">Contact Us</a></li>
+
+
+				</ul>
+			</nav>
+		</div>
+	</header>
+
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-149376505-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-149376505-1');
+</script><div class="pagebanner">
+<h2>About Us</h2>
+
+
+</div>
+
+<div class="about-div">
+<div class="section__content--fluid-width">
+
+<div class="about-para">
+<p>With combined technology expertise of more than 26 years, Steed26 was instituted to provide innovative solutions in every domain to meet the customized needs of our clients. We offer unparalleled expertise of time tested successfully operational solutions that bring contented smiles to every single customer of ours who have trusted us ever since our inception.</p>
+<p style="margin-top:25px;">A positive and successful evolution of your business depends on how well you adopt technology and automate your processes. Technology most often acts as the grease on the wheels to bring in a smooth impact on your overall business. We are here to help you exactly what your business needs</p></div>
+<svg class="svg-features-bottom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none">
+				<path d="M0,0 L80,100 L100,50 100,100 0,100 Z" fill="#fff"/>
+			</svg>
+</div>
+</div>
+
+
+
+ <div class="philosophy-section">
+
+
+
+    <div class="section-block-grey" style="background-color: #fff;">
+        <div class="philosophy-outer">
+
+        	<h2 class="section__title section__title--centered">Our Philosophy</h2>
+
+         <div class="row mt-50">
+                <div class="box-width col-sm-6 col-xs-12">
+                    <div class="feature-box">
+                        <h4>Disrupt</h4>
+                    <p>Challenge prevailing assumptions with integrity </p>
+                    </div>
+                </div>
+                <div class="box-width col-sm-6 col-xs-12">
+                    <div class="feature-box">
+                        <h4>Create</h4>
+                        <p>Be brave,creative & open minded</p>
+                    </div>
+                </div>
+                <div class="box-width col-sm-6 col-xs-12">
+                    <div class="feature-box">
+                        <h4>Impact</h4>
+                        <p>Dare to be different with accountability</p>
+                    </div>
+                </div>
+
+                <div class="box-width col-sm-6 col-xs-12">
+                    <div class="feature-box">
+                        <h4>Communicate</h4>
+                        <p>Build open & honest relationship with communication</p>
+                    </div>
+                </div>
+
+                   <div class="box-width col-sm-6 col-xs-12">
+                    <div class="feature-box">
+                        <h4>Deliver</h4>
+                        <p>Give customers a WOW experience</p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+ </div>
+
+<!--
+<div class="journey-section">
+  <div class="section-block-parallax section-md" style="background-image: url(images/india.png)">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-5 col-sm-5 col-12">
+                    <div class="section-heading white-color mt-15">
+                        <h3>Our Journey </h3>
+                        <div class="section-heading-line-left"></div>
+                    </div>
+                </div>
+                <div class="col-md-7 col-sm-7 col-12">
+                    <div class="row">
+                        <div class="col-md-4 col-sm-4 col-4">
+                            <div class="counter-box white-color">
+                                <h4 class="countup">8 </h4>
+                                <p>Years</p>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-4 col-4">
+                            <div class="counter-box white-color">
+                                <h4 class="countup">100 </h4>
+                                <p>Happy Clients </p>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-4 col-4">
+                            <div class="counter-box white-color">
+                                <h4 class="countup">15 </h4>
+                                <p>Countries Served</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div> -->
+
+
+
+
+
+
+<!-- Section -- testimonials --><!--	<section class="section" id="testimonials">
+
+			<div class="section__content  section__content--padding">
+			        <h2 class="section__title section__title--centered">Testimonials</h2>
+				<div class="section__description section__description--centered">
+	"Business is all about the customer: what the customer wants and what they get. Generally, every customer wants a product or service that solves their problem, worth their money, and is delivered with amazing customer service"
+				</div>
+					  <div class="testimonials">
+
+						<div class="testimonials__content swiper-wrapper">
+							  <div class="testimonials__slide swiper-slide">
+								<div class="testimonials__thumb" data-swiper-parallax="-50%"><img src="images/testimonials/1.jpg" alt="" title=""/></div>
+
+								<!--<div class="testimonials__text" data-swiper-parallax="-100%"><p>"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry. "</p></div>
+								<div class="testimonials__source">Mr Pinto <br> <span>Director Finance</span></div>-->
+
+<!--							  </div>
+							  <div class="testimonials__slide swiper-slide">
+								<div class="testimonials__thumb" data-swiper-parallax="-50%"><img src="images/testimonials/2.jpg" alt="" title=""/></div>
+
+								<!--<div class="testimonials__text" data-swiper-parallax="-100%"><p>"No one can make you successful; the will to success comes from within.' I've made this my motto. I've internalized it to the point of understanding that the success of my actions and/or endeavors doesn't depend on anyone else, and that includes a possible failure"</p></div>
+								<div class="testimonials__source">Jada Sacks <a href="#">Paris Tehnics</a></div>-->
+
+<!--							  </div>
+							  <div class="testimonials__slide swiper-slide">
+								<div class="testimonials__thumb" data-swiper-parallax="-50%"><img src="images/testimonials/3.jpg" alt="" title=""/></div>
+								<!--<div class="testimonials__text" data-swiper-parallax="-100%"><p>"The American Dream is that any man or woman, despite of his or her background, can change their circumstances and rise as high as they are willing to work"</p></div>
+								<div class="testimonials__source">Lason Duvan <a href="#">Music Software</a></div>-->
+<!--							  </div>
+							  <div class="testimonials__slide swiper-slide">
+								<div class="testimonials__thumb" data-swiper-parallax="-50%"><img src="images/testimonials/4.jpg" alt="" title=""/></div>
+								<!--<div class="testimonials__text" data-swiper-parallax="-100%"><p>"Business is all about the customer: what the customer wants and what they get. Generally, every customer wants a product or service that solves their problem, worth their money, and is delivered with amazing customer service"</p></div>
+								<div class="testimonials__source">Duran Jackson <a href="#">New York Business Center</a></div>-->
+<!--							  </div>
+							  <div class="testimonials__slide swiper-slide">
+								<div class="testimonials__thumb" data-swiper-parallax="-50%"><img src="images/testimonials/5.jpg" alt="" title=""/></div>
+
+								<!--<div class="testimonials__text" data-swiper-parallax="-100%"><p>"No one can make you successful; the will to success comes from within.' I've made this my motto. I've internalized it to the point of understanding that the success of my actions and/or endeavors doesn't depend on anyone else, and that includes a possible failure"</p></div>
+								<div class="testimonials__source">Maria Allesi <a href="#">Italy Solutions</a></div>-->
+
+<!--							  </div>
+							  <div class="testimonials__slide swiper-slide">
+								<div class="testimonials__thumb" data-swiper-parallax="-50%"><img src="images/testimonials/6.jpg" alt="" title=""/></div>
+								<!--<div class="testimonials__text" data-swiper-parallax="-100%"><p>"The American Dream is that any man or woman, despite of his or her background, can change their circumstances and rise as high as they are willing to work"</p></div>
+								<div class="testimonials__source">Jenifer Patrison<a href="#">App Dating</a></div>-->
+<!--							  </div>
+						</div>
+
+						<div class="testimonials__pagination swiper-pagination"></div>
+					</div>
+				<div class="clear"></div>
+			</div>
+
+	</section> -->
+
+
+
+
+	<!-- Section -->
+<!--	<section class="section" id="clients">
+	<div class="section__content section__content--fluid-width section__content--padding">
+				<div class="grid grid--5col scroll-logo">
+
+
+
+					<div class="grid__item">
+						<div class="grid__client-logo"><img src="images/clients/1.png" alt="" title=""/></div>
+					</div>
+
+
+
+					<div class="grid__item">
+						<div class="grid__client-logo"><img src="images/clients/2.png" alt="" title=""/></div>
+					</div>
+
+
+
+					<div class="grid__item">
+						<div class="grid__client-logo"><img src="images/clients/3.png" alt="" title=""/></div>
+					</div>
+
+
+
+					<div class="grid__item">
+						<div class="grid__client-logo"><img src="images/clients/4.png" alt="" title=""/></div>
+					</div>
+
+
+
+					<div class="grid__item">
+						<div class="grid__client-logo"><img src="images/clients/5.png" alt="" title=""/></div>
+					</div>
+
+
+
+		<!--			<div class="grid__item">
+						<div class="grid__client-logo"><img src="images/clients/6.png" alt="" title=""/></div>
+					</div>
+
+
+
+					<div class="grid__item">
+						<div class="grid__client-logo"><img src="images/clients/7.png" alt="" title=""/></div>
+					</div>
+
+
+
+					<div class="grid__item">
+						<div class="grid__client-logo"><img src="images/clients/8.png" alt="" title=""/></div>
+					</div>
+
+
+
+					<div class="grid__item">
+						<div class="grid__client-logo"><img src="images/clients/9.png" alt="" title=""/></div>
+					</div>
+
+
+
+					<div class="grid__item">
+						<div class="grid__client-logo"><img src="images/clients/10.png" alt="" title=""/></div>
+					</div>
+
+
+
+					<div class="grid__item">
+						<div class="grid__client-logo"><img src="images/clients/11.png" alt="" title=""/></div>
+					</div>
+
+
+
+					<div class="grid__item">
+						<div class="grid__client-logo"><img src="images/clients/12.png" alt="" title=""/></div>
+					</div>
+
+
+
+					<div class="grid__item">
+						<div class="grid__client-logo"><img src="images/clients/13.png" alt="" title=""/></div>
+					</div>
+
+
+
+					<div class="grid__item">
+						<div class="grid__client-logo"><img src="images/clients/14.png" alt="" title=""/></div>
+					</div>
+
+
+
+					<div class="grid__item">
+						<div class="grid__client-logo"><img src="images/clients/15.png" alt="" title=""/></div>
+					</div>
+
+
+
+					<div class="grid__item">
+						<div class="grid__client-logo"><img src="images/clients/16.png" alt="" title=""/></div>
+					</div>
+
+
+
+					<div class="grid__item">
+						<div class="grid__client-logo"><img src="images/clients/17.png" alt="" title=""/></div>
+					</div>
+
+
+
+					<div class="grid__item">
+						<div class="grid__client-logo"><img src="images/clients/18.png" alt="" title=""/></div>
+					</div>
+
+
+
+					<div class="grid__item">
+						<div class="grid__client-logo"><img src="images/clients/19.png" alt="" title=""/></div>
+					</div>  -->
+
+
+
+<!--					</div>
+				</div>
+
+			</div>
+	</section> -->
+
+	<!-- Section -->
+	<section class="section section--cta" id="technologies">
+			<div class="section__content section__content--fluid-width section__content--padding section__content--cta"  style="padding-right: 0% !important;">
+			<h2 class="section__title section__title--centered section__title--cta">Technologies</h2>
+
+			<div class="section__description section__description--centered section__description--cta">
+				Technology is future. We understand and adopt the future technology that allows you for<br> faster, optimized scalability
+				</div>
+
+<div class="grid grid--5col">
+
+		<ul class="technology-ul">
+            <li><img src="images/technologies/1.png" alt="" title=""/> </li>
+
+            <li><img src="images/technologies/2.png" alt="" title=""/> </li>
+
+            <li><img src="images/technologies/3.png" alt="" title=""/> </li>
+
+            <li><img src="images/technologies/4.png" alt="" title=""/> </li>
+
+            <li><img src="images/technologies/5.png" alt="" title=""/> </li>
+
+            <li><img src="images/technologies/6.png" alt="" title=""/> </li>
+
+            <li><img src="images/technologies/7.png" alt="" title=""/> </li>
+
+            <li><img src="images/technologies/8.png" alt="" title=""/> </li>
+
+            <li><img src="images/technologies/9.png" alt="" title=""/> </li>
+
+            <li><img src="images/technologies/10.png" alt="" title=""/> </li>
+
+            <li><img src="images/technologies/11.png" alt="" title=""/> </li>
+
+            <li><img src="images/technologies/12.png" alt="" title=""/> </li>
+
+            <li><img src="images/technologies/13.png" alt="" title=""/> </li>
+
+            <li><img src="images/technologies/14.png" alt="" title=""/> </li>
+
+            <li><img src="images/technologies/15.png" alt="" title=""/> </li>
+
+            <li><img src="images/technologies/16.png" alt="" title=""/> </li>
+
+            <li><img src="images/technologies/17.png" alt="" title=""/> </li>
+
+            <li><img src="images/technologies/18.png" alt="" title=""/> </li>
+
+ 		</ul>
+			</div>
+            </div>
+
+	</section>
+
+
+
+<section class="total-footer">
+	<p class="grid__text copyright text-center"> <span> &copy;</span> InfoSoul </p>
+<!--<div class="footer-left">
+<p class="grid__text copyright"> <span> &copy;</span> Steed 26 Solutions Pvt.Ltd </p>
+</div>
+
+<div class="footer-right">
+<ul class="grid__list grid__list--sicons">
+
+<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+	<li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+	<li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+						</ul>
+	  </div>-->
+</section>
+
+
+<script type="text/javascript" src="js/jquery.min.js?v=1"></script>
+<script src="js/menu.js?v=1"></script>
+<script src="js/bootstrap.min.js?v=1"></script>
+<script src="js/swiper.min.js?v=1"></script>
+<script src="js/swiper.custom.js?v=1"></script>
+<script src="js/jquery.counterup.min.js?v=1"></script>
+<script src="js/waypoints.min.js?v=1"></script>
+<script src="js/infiniteslide.js?v=1"></script>
+<script type="text/javascript">
+$( document ).ready(function() {
+$('.scroll-logo').infiniteslide({
+  'speed': 100
+});
+});
+</script>
+
+
+<script type="text/javascript">
+	 $('.countup').counterUp({
+    delay: 25,
+    time: 2000
+  });
+</script>
+
+</body>
+</html>
